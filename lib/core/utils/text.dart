@@ -260,7 +260,7 @@ class AppText extends StatelessWidget {
       style: style.copyWith(
         letterSpacing: letterSpacing,
         wordSpacing: wordSpacing,
-        color: color ?? AppColors.grey.shade500,
+        color: color ?? AppColors.kGrey.shade500,
         height: lineHeight,
         fontSize: fontSize,
       ),
